@@ -1,6 +1,4 @@
-# Proyecto-9
-
-##  Venta de entradas de eventos 
+# Venta de entradas de eventos 
 
 Descripción del proyecto
 La tarea dentro de este proyecto es ayudar a optimizar los gastos de marketing, en el departamento de analítica de Showz, una empresa de venta de entradas de eventos. 
