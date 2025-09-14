@@ -1,6 +1,5 @@
-# ShowzTickets
+# Optimización de gastos de marketing en Showz
 
-## Venta de entradas de eventos 
 
 Descripción del proyecto.
 
